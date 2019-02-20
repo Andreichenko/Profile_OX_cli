@@ -1,4 +1,4 @@
-Setting Iterm2 for MacOS command line
+Setting Iterm2 for MacOS and WSL command line
 
 INSTALL
 
